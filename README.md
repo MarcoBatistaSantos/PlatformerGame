@@ -1,5 +1,4 @@
-# PlatformerGame is a project tutorial maked following the instructions of the tutorial videos publishied in the canal of 
-the youtuber Kaarin Gaming.
+PlatformerGame is a project tutorial maked following the instructions of the tutorial videos publishied in the canal of the youtuber Kaarin Gaming.
 
 Point covereds:
 - GameWindow 
